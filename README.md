@@ -18,7 +18,7 @@
      alt="Coding" width="280" style="margin-left: 25px; margin-top: 5px; margin-bottom: 5px;">
 
 
-My name is Sara, I’m 18 years old and currently studying Systems and Computer Engineering at the University of Quindío. At the same time. I’m deeply interested in software development, technology, and learning in a self-taught way, always trying to combine the technical with the creative.  
+My name is Sara, I’m 18 years old and currently studying Systems and Computer Engineering at the University of Quindío. I’m deeply interested in software development, technology, and learning in a self-taught way, always trying to combine the technical with the creative.  
 
 🎮 I love video games.  
 🎸 I enjoy playing musical instruments.  
